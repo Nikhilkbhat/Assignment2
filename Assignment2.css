@@ -1,0 +1,40 @@
+.top {
+    color: red;
+}
+
+
+.top:hover{
+    color: rgb(11, 11, 248);
+}
+
+.head {
+    color:red;
+}
+
+
+.para {
+   border: 2px solid;
+   margin: 50px;
+   border-radius:5px; 
+}
+
+.para1 {
+    font-size:20px;
+    padding:20px; 
+    
+}
+.para2 {
+    font-size:20px;
+    padding:20px; 
+    
+}
+.para3 {
+    font-size:20px;
+    padding:20px; 
+    
+}
+.para4 {
+    font-size:20px;
+    padding:20px; 
+    
+}
